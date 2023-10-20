@@ -13,6 +13,7 @@
 		1A1EE56726A717810011958B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A1EE56626A717810011958B /* Preview Assets.xcassets */; };
 		1A1EE57226A717810011958B /* WordScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1EE57126A717810011958B /* WordScrambleTests.swift */; };
 		1A1EE57D26A717810011958B /* WordScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1EE57C26A717810011958B /* WordScrambleUITests.swift */; };
+		1A46865E26B197C700BE9C72 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A46865D26B197C700BE9C72 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		1A1EE57826A717810011958B /* WordScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A1EE57C26A717810011958B /* WordScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleUITests.swift; sourceTree = "<group>"; };
 		1A1EE57E26A717810011958B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A46865D26B197C700BE9C72 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				1A1EE56126A717800011958B /* ContentView.swift */,
 				1A1EE56326A717810011958B /* Assets.xcassets */,
 				1A1EE56826A717810011958B /* Info.plist */,
+				1A46865D26B197C700BE9C72 /* start.txt */,
 				1A1EE56526A717810011958B /* Preview Content */,
 			);
 			path = WordScramble;
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A1EE56726A717810011958B /* Preview Assets.xcassets in Resources */,
+				1A46865E26B197C700BE9C72 /* start.txt in Resources */,
 				1A1EE56426A717810011958B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
